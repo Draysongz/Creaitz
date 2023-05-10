@@ -1,0 +1,15 @@
+.courseContainer{
+    margin-top: 1rem;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    overflow:hidden !important;
+}
+
+.first, .second, .third{
+    border: 1px solid black;
+    height: 40vh;
+}
+.courses{
+    border : 2px solid red;
+}
